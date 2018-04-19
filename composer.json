@@ -1,0 +1,14 @@
+{
+    "name": "bayo/e3",
+    "description": "E3 Creative Technical Test",
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bayonle Ladipo",
+            "email": "laredy27@gmail.com"
+        }
+    ]
+}
